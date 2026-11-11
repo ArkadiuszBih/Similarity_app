@@ -3,3 +3,5 @@ pandas
 pycaret==3.3.2
 plotly
 scikit-learn==1.4.2
+scikit-plot
+six
